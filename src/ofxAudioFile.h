@@ -3,6 +3,7 @@
 #define OFXAUDIOFILE_H_DEFINED
 
 #include <iostream>
+#include <cstdint>
 #include <string>
 
 class ofxAudioFile {
